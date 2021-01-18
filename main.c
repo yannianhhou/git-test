@@ -18,6 +18,4 @@ int main()
 	}
 	free(str);
     return 0;
-	//增加main信息
-	//test文件
 }
