@@ -3,7 +3,6 @@
 
 int main()
 {
-	//char str1[]="qweqwr";
 	int i = 0;
 	int* str = (int*)malloc(sizeof(int)*10);
 	if(NULL!=str)
