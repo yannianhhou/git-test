@@ -18,5 +18,4 @@ int main()
 	}
 	free(str);
     return 0;
-    //
 }
